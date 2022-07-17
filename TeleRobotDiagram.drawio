@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-17T04:35:53.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P4mF6EQ65cssL4bisOsJ" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-17T04:38:15.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mU7qMiHd3OBi3jgw8Baw" version="20.1.1" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="1185" dy="1444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -85,11 +85,14 @@
         <mxCell id="qs4FXXVYRaF119wpGoub-266" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;智能座舱&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;镜头缩放&lt;br&gt;云台追踪&lt;br&gt;自动巡航&lt;br&gt;桌面共享&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;labelBackgroundColor=#1A1A1A;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="215" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qs4FXXVYRaF119wpGoub-267" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;开发者接入&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;变声器&lt;br&gt;自动巡逻&lt;br&gt;机器人跳舞&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;labelBackgroundColor=#1A1A1A;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="qs4FXXVYRaF119wpGoub-267" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;开发者接入&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;语音&lt;br&gt;控制&lt;br&gt;屏显&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;labelBackgroundColor=#1A1A1A;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="750" y="5" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="qs4FXXVYRaF119wpGoub-268" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;虚拟人表情&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;算力即带宽&lt;br&gt;融入环境&lt;br&gt;虚拟社交&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;labelBackgroundColor=#1A1A1A;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="221.64" y="350" width="129.28" height="80" as="geometry" />
+        <mxCell id="qs4FXXVYRaF119wpGoub-270" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;fontColor=#FFFFFF;" edge="1" parent="1" source="qs4FXXVYRaF119wpGoub-268" target="qs4FXXVYRaF119wpGoub-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qs4FXXVYRaF119wpGoub-268" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;虚拟人表情&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;算力即带宽&lt;br&gt;融入环境&lt;br&gt;变声器&lt;br&gt;虚拟社交&lt;br&gt;表情商城&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;labelBackgroundColor=#1A1A1A;sketch=0;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="221.64" y="350" width="129.28" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
